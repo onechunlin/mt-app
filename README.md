@@ -1,29 +1,5 @@
-# mt
-
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+# 仿美团项目
+利用Vue 3.0编写的美团项目，完成了美团外卖进入商家后的点餐页面以及功能，包括本地模拟接口、点菜界面、购物车、列表滚动、商品详情、评价详情、商家信息等。
+# 项目说明
+因为github的大小限制原因，没有将模块文件夹传上来，所以直接下载整个项目以后无法运行，需要自己手动建一个新的项目，然后安装对应的模块。
+# 效果展示
