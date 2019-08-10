@@ -3,3 +3,4 @@
 # 项目说明
 因为github的大小限制原因，没有将模块文件夹传上来，所以直接下载整个项目以后无法运行，需要自己手动建一个新的项目，然后安装对应的模块。
 # 效果展示
+[点击这里](https://github.com/onechunlin/mt-app/blob/master/%E6%95%88%E6%9E%9C%E5%B1%95%E7%A4%BA.gif)
